@@ -1,4 +1,7 @@
 27/11/18
+
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
 The idea of this project is to deconstruct  a webpage and rebuild it; in order to think about how elements fit on a page and roughly how they get styled and aligned 
 
 L / O:
